@@ -24,5 +24,5 @@ Users can:
 
 ## 🔗 View the Dashboard
 
-👉 [**View on Tableau Public**](hhttps://public.tableau.com/views/LondonUndergroundTemperaturesMOM2025W30/LondonTemps?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+👉 [**View on Tableau Public**](https://public.tableau.com/views/LondonUndergroundTemperaturesMOM2025W30/LondonTemps?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
